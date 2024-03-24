@@ -6,3 +6,90 @@ Green: #00B172
 White: #FFF
 
 */
+
+body {
+  margin: 2rem;
+}
+
+header img {
+  width: 10%;
+}
+
+header ul {
+  list-style: none;
+  display: inline;
+}
+
+header li {
+  float: right;
+  margin-right: 1rem;
+  padding-top: 0.5rem;
+}
+main {
+  text-align: center;
+}
+
+.landing-image {
+  width: 100%;
+}
+
+main > div {
+  position: absolute;
+  color: white;
+  top: 25rem;
+  left: 10rem;
+}
+main > div h1 {
+  font-size: 56px;
+}
+
+main h3 {
+  font-size: 22px;
+  padding: 0 10rem;
+}
+.onSpotify {
+  text-align: center;
+}
+.onSpotify img {
+  height: 10vh;
+}
+.onSpotify h1 {
+  color: green;
+}
+
+.onSpotify div {
+  display: inline-block;
+  margin: 1rem 5rem;
+}
+
+#green-area {
+  background-color: #00b172;
+  overflow: hidden;
+}
+
+#green-area > div {
+  display: inline-block;
+  width: 25%;
+  vertical-align: middle;
+  color: white;
+}
+#green-area > div {
+  text-align: left;
+}
+
+.spotify-image img {
+  height: 10rem;
+}
+
+.spotify-image img {
+  height: 5rem;
+}
+.spotify-app img {
+  height: 30rem;
+  margin: 1rem;
+}
+
+footer {
+  text-align: center;
+  margin: 2rem;
+}
